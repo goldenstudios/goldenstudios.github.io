@@ -1,0 +1,16 @@
+# major.minor.build:bugfx
+versionData = [
+	major = "0"
+	minor = "0"
+	build = "3"
+	bugfx = "0"
+	versionInformation = [
+		<null>
+	]
+]
+versionCheck = [
+	majorDifferences = block
+	minorDifferences = alert
+	buildDifferences = alert
+	bugfxDifferences = ignore
+]
